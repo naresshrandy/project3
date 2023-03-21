@@ -1,10 +1,10 @@
 # Android Project 4 - Flixster
 
-Submitted by: Naresh Chintala
+Submitted by: Naresh Chintala 
 
-**Name of your app** is a movie browsing app that allows users to browse ... [TODO] 
+ Flixster is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
